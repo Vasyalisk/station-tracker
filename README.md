@@ -27,7 +27,8 @@ Based on the **algorithms** in Model\Algorithms.h and their duplicates in Graph\
 Graph\Algorithms.h module partially exposes underlying graph and Dijkstra algorithm implementation for further modification, whereas Model\Algorithms.h contains stand-alone functions which operate using classes from "Model" directory.
 
 
-## This repository was written using only standard C++ library.
+## External libraries used:
+This repository was written using only standard C++ library.
 
 
 ## Contents of the repository:
